@@ -1,1 +1,2 @@
 # cyberpatriot-linux-scripts
+Placeholder repository for my CyberPatriot Linux scripts. Per competition rules, I will not be adding the scripts here (no sharing of scripts) until after the season ends. I may also upload the checklist here.
