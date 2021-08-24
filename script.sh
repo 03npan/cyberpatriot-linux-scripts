@@ -1,7 +1,7 @@
 #!/bin/bash
 clear
 echo "Created by Nathan Pan, Career and Technology Center, Frederick, MD, USA"
-echo "Last Modified on Saturday, January 16th, 2021, 3:41pm"
+echo "Last Modified on Tuesday, August 24th, 2021, 2:01pm"
 echo "CyberPatriot Ubuntu Script"
 
 ####################################LOG FILE####################################
